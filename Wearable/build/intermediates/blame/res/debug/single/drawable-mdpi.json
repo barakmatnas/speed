@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-mdpi/ic_boot_cancel.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-mdpi/ic_boot_cancel.png"
+    },
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_79764ce39cbfd8e7621912c4393f1b5d17f83aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_fa2c232467e49ab12eec02ba72db53d39dac08d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_b0675f6d475ef09b3623edae71768a6291afbb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_1e5893631351e0df00c5779af0179c59acbd8239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_23fbead2a1bc391fa2f33c8887f52cb3f6988456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_6388d12ebf6abfd11c3730e15fba294e7033585e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_adb42ba9062d7b84692c951fef0e188be68da31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_0d890651de9992799551b5d246de0de9ed07e2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_13cbd153c990b04a1f3862ecef3cb08e051210c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.1_b60af578af3c7f9e0957253be5bc43ca437e7ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7b5cbe0821bc6331e7f929b062bba0f22559aea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_674ef5a02fe696bfc02438dca18c7cda160f97cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_e7a9556fcc696d2da9f8d2a08e919c4b2123e455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_fd03c49135abed55ad1fcd1862603b2d8676d726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_996410927ca8c5271bafcf5014ca705228ce0d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/SpeedTracker/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c2e16cf079c6a201f7e3cfa86f2097326721a4e">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/SpeedTracker-Shared-unspecified_6e0789582ba8ff353d5aefd18c5bc27e1e857b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_260c21a7445267271bbcd1936d6c69bcf2e5a4cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.1_4da57a57f6a551e6b4290b0c9a79e5e13700e4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_9296ba9f528b43a116f5912fe35836ff08a24f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_626db5167958f4d9fa9b0df9d1d452c2aa550e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8c3fc0dc0838850171bf4cd69992e32027d70701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_1ca103dfff99c921527d6166c3ae047439524906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_13e542873ed62d45c21655ddad983df4cabf76ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b33559ec3e1cdeb41ec2e3408be474d76f7813ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_800ef015d606b092b46e5e2c8a0471a92d83fd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/barakhalevi/Desktop/SpeedTracker/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a35b2f7f83596de6737b48408f1ffa6f87212d24.jar" />
+    </item>
+
+</items>

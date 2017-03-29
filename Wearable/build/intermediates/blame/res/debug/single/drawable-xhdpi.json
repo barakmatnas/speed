@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi/ic_confirmation.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png"
+    },
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi/ic_cancel_80.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_cancel_80.png"
+    },
+    {
+        "merged": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi/ic_confirmation_80.png",
+        "source": "/Users/barakhalevi/Desktop/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation_80.png"
+    }
+]
